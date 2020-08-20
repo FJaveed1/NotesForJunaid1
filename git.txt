@@ -1,0 +1,17 @@
+git remote set-url origin git@github.com:FJaveed1/PageObjectModel.git
+======
+
+git init
+git status
+
+git add .
+ 
+git status
+
+git commit -m "First commit or the project"
+
+git push origin master
+=========
+
+
+ssh-keygen -t rsa -b 4096 -C "fouzia01@gmail.com"
